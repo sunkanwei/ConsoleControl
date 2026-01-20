@@ -1,5 +1,7 @@
 # Console Control
 
+[中文说明](README_CN.md)
+
 A Blender addon for controlling the system console window.
 
 > **Windows Only** - This addon uses Windows API and only works on Windows.
